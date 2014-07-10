@@ -27,4 +27,9 @@
   
   
 ### 效果如图 ###
+
+![icon1](https://raw.githubusercontent.com/CaesarZhao/wechat_demo/master/icon1.png)
+![icon1](https://raw.githubusercontent.com/CaesarZhao/wechat_demo/master/icon2.png)
+![icon1](https://raw.githubusercontent.com/CaesarZhao/wechat_demo/master/icon3.png)
+![icon1](https://raw.githubusercontent.com/CaesarZhao/wechat_demo/master/icon4.png)
  
